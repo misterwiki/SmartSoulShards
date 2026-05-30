@@ -1,0 +1,15 @@
+## Interface: 120005
+## Title: Smart Soul Shards
+## Notes: Warlock Soul Shards bar with predictive spending and building
+## Author: Mr Wiki
+## Version: 1.0.0
+## SavedVariables: SmartSoulShardsDB
+
+Libs\LibStub\LibStub.lua
+Libs\LibEditMode\namespaced.lua
+Libs\LibEditMode\embed.xml
+Libs\LibSharedMedia-3.0\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibSharedMedia-3.0\lib.xml
+
+Localization\enUS.lua
+SmartSoulShards.lua
